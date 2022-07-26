@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a petrol head 
+- 👋 Hi, I’m Mayank
 - 👀 I’m interested in data structures and algorithms
 - 🌱 I’m currently learning React Native 
 - 💞️ I’m looking to collaborate on open source projects
