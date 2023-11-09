@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank
-- 👀 I’m interested in data structures and algorithms
-- 🌱 I’m currently learning React Native 
+- 👀 I’m interested in data structures and algorithms , TypeScript , React
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on open source projects
 <!---
 mayank-kumar-00/mayank-kumar-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
